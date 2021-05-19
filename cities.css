@@ -1,0 +1,112 @@
+body {
+    background-color:rgb(243, 199, 188);
+}
+
+
+.cities-title {
+    color:darkblue;
+    text-align: center;
+    border-bottom: 3px double rgb(23, 23, 211);
+    width: 60%;
+    margin: 2rem auto;
+    background-color: rgb(202, 240, 193);
+}
+
+/* ............................................................. */
+
+.bag-image {
+    margin-left: 8rem;
+    float:left;
+    padding: 1rem;
+    
+}
+
+.baghdad-p {
+    margin-left: 10rem;
+    text-align: justify;
+    width: 60%;
+    color: rgb(8, 50, 141);
+}
+
+/* ............................................................ */
+
+.basra-p {
+    color:rgb(32, 59, 16);
+    margin-left: 15rem;
+    text-align: justify;
+    width: 20%;
+    margin-top: 1rem;
+    display: inline-block;
+    float: left;
+
+}
+
+.basra-image {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+/* ....................................................... */
+
+.mosul-image {
+    margin-left: 8rem;
+    float:left;
+    padding: 1rem;
+}
+
+.mosul-p {
+    margin-top: 3rem;
+    margin-left: 10rem;
+    text-align: justify;
+    width: 60%;
+    color: rgb(84, 4, 87);
+    margin-bottom: 4rem;
+}
+
+/* ........................................................ */
+.erbil-image {
+    margin-top: 2rem;
+    margin:0 auto;
+    padding: 1rem
+}
+
+.erbil-p {
+    color:rgb(112, 40, 7);
+    margin-left: 15rem;
+    text-align: justify;
+    width: 20%;
+    display: inline-block;
+    float: left;
+}
+
+/* ........................................................ */
+
+.karb-image {
+    margin-left: 8rem;
+    float:left;
+    padding: 1rem
+}
+
+.karbala-p {
+    color:rgb(25, 9, 95);
+    text-align: justify;
+    width: 35%;
+    margin-left: 8rem;
+    margin:0 auto;
+    margin-bottom: 8rem;
+}
+
+
+/* ......................................................... */
+.najaf-p {
+    color:rgb(112, 40, 7);
+    margin-left: 8rem;
+    text-align: justify;
+    width: 30%;
+    float: left;
+    padding: 1rem;
+}
+
+.najaf-image {
+    padding: 1rem;
+}

@@ -1,0 +1,180 @@
+.tourism-title {
+    color: rgba(11, 66, 20, 0.966);
+    text-align: center;
+    border-bottom: 3px double rgb(5, 124, 21);
+    width: 60%;
+    margin: 2rem auto;
+    background-color: rgb(199, 240, 209);
+}
+
+.navbar {
+    background-color: rgb(118, 214, 231);
+}
+
+
+/* ............................................. */
+h3 {
+    color: darkblue;
+    margin-left: 4rem;
+}
+.karbnaj {
+    margin-left: 4rem;
+}
+
+.karbala-p {
+    text-align: justify;
+    color:rgb(5, 5, 150);
+    width: 90%;
+    margin-left: 4rem;
+}
+
+.karbala-image {
+   margin-left: 20rem
+} 
+
+/* ............................................. */
+.najaf {
+    text-align: justify;
+    width: 90%;
+    margin-left: 4rem;
+    color:rgb(136, 4, 125); 
+}
+.najaf-image {
+    margin-left: 20rem;
+} 
+/* ................................................ */
+
+
+.kurd-p {
+    margin-left: 4rem;
+    text-align: justify;
+    width: 90%;
+    color:rgb(14, 104, 41); 
+}
+
+.kurd-image {
+    margin-left: 4rem;
+}
+.kurd1-image {
+    margin-left: 2rem;
+}
+/* ................................................... */
+
+.Yazidi-image {
+    float: left;
+    width: 200px;
+    margin-left: 20px;
+}
+
+.lalish-image {
+    float: left;
+    margin-left: 4rem;
+}
+
+.lalish-p {
+    text-align: justify;
+    width: 80%;
+    color: rgb(122, 11, 187);
+    margin-left: 4rem;
+}
+/* .................................................... */
+
+.alqosh {
+    text-align: justify;
+    color: rgba(155, 23, 9, 0.986);
+    width: 80%;
+    margin-left: 4rem;
+}
+
+.alqosh-image {
+    margin-left: 4rem;
+}
+
+/* ...................................................... */
+
+.halgurd {
+    width: 80%;
+    margin-left: 5rem;
+    color:rgb(5, 5, 150);
+}
+.halgurd-image {
+    margin-left: 4rem;
+}
+
+/* ..................................................... */
+
+.zbd {
+    text-align: justify;
+    color: rgb(5, 5, 124);
+    margin-left: 6rem;
+}
+
+.zbd-image {
+    margin-left: 4rem;
+}
+
+.zbd1-image {
+    margin-left: 4rem;
+}
+
+/* ....................................................... */
+
+.deraluk {
+    margin-left: 6rem;
+    color: rgba(4, 74, 102, 0.966);
+}
+
+/* ......................................................... */
+
+.shallal-image {
+    margin-left: 15rem;
+}
+/* ........................................................ */
+
+.gali {
+   text-align: justify;
+   width: 65%;
+   margin-left: 3rem
+}
+
+.gali-image {
+    margin-left: 8rem;
+    float: left;
+    padding: 1rem;
+}
+
+/* ......................................................... */
+
+.bekhal-image {
+    margin-left: 20rem;
+    float:left;
+    padding: 1rem
+ 
+}
+.bekhal {
+    margin-top: 20rem;
+    text-align: justify;
+    width: 60%;
+    margin-left: 20rem
+}
+/* ............................................................. */
+
+h3 {
+    margin-top: 5rem;  
+}
+.marshes {
+    margin-left: 4rem;
+    text-align: justify;
+    color:rgb(18, 105, 44)
+}
+.marshes1-image {
+    margin-left: 4rem;
+}
+
+.marshes-p {
+    margin-left: 4rem;
+    text-align: justify;
+    width: 85%;
+    color:rgb(18, 105, 44);
+}
+/* .............................................................. */

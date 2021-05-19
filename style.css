@@ -1,0 +1,222 @@
+body {
+    background-color: rgb(241, 204, 212);
+}
+
+.main-title {
+    color: rgba(163, 9, 9, 0.966);
+    text-align: center;
+    border-bottom: 3px double rgb(71, 15, 7);
+    width: 60%;
+    margin: 2rem auto;
+    background-color: rgb(175, 231, 231);
+}
+
+h1 {
+    text-align: center;
+}
+
+.Iraq-map1 {
+    margin-left: 8rem;    
+}
+
+.navbar {
+    background-color: rgb(198, 211, 245);
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+
+
+li a {
+    color: rgb(6, 69, 185);
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #eb6a20;
+    
+}
+
+h2 {
+    color:rgba(5, 5, 155, 0.904);
+    text-align: center;
+    margin-right: 25rem;
+}
+
+/* ...............Culture.........................*/
+
+.cultures {
+    background-color:rgb(172, 208, 248);
+    width: 50%;
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-left: 18rem;
+    text-align: justify;
+}
+
+
+.babylon-image {
+     float: left;
+     width: 330px;
+     margin-top: 5rem;
+     margin-left: 17rem;
+     padding: 1rem;
+} 
+
+/* ....................Art...........................*/
+h3 {
+    margin-left: 4rem;
+    color: rgb(9, 37, 160);
+}
+
+.art {
+    margin-left: 6rem;
+    padding: 1rem;
+    width: 60%;
+
+}
+
+.art-image {
+    float: left;
+    padding: 1rem;
+    margin-left: 20px;
+}
+
+.art-p {
+    color:rgb(9, 9, 153);
+    width: 75%;
+    padding: 1rem;
+    text-align:justify;
+    background-color:rgb(241, 238, 203);
+}
+
+
+/* .....................language.....................*/
+
+.language {
+    margin-left: 6rem;
+    padding: 1rem;
+    width: 85%;
+}
+
+.tower-image {
+    float: left;
+    width: 38%;
+    margin: 1rem;
+}
+
+.language-p {
+    color: black;
+    width: 90%;
+    text-align: justify;
+    padding: 1rem;
+    background-color:rgb(203, 243, 203);
+}
+
+/* ..................literature........................... */
+
+.literature {
+    color:rgb(34, 34, 133);
+    width: 85%;
+    margin: 4rem;
+    text-align:justify;
+}
+
+.literature-p {
+    background-color:rgb(182, 218, 190);
+    padding: 1rem;
+    margin-left: 4rem
+}
+/* .....................poetry......................... */
+
+.poetry-image {
+    float: left;
+    margin-top: 2rem;
+    margin-left: 15rem;
+    padding: 2rem;
+}
+
+.poetry-p {
+    padding: 2rem;
+    margin-left: 25rem;
+    width: 35%;
+    text-align:justify;
+    background-color:rgb(197, 204, 219);
+    color:rgb(16, 91, 231)
+}
+
+
+/* ........................Iraqi architect.......................... */
+
+.architect {
+    margin-top: 6rem;
+    padding-left: 4rem
+}
+
+.architect-image {
+    float: left;
+    margin-left: 2rem;
+    padding: 2rem;   
+}
+
+.architect-p {
+    width: 45%;
+    padding: 2rem;
+    margin-left: 2rem;
+    text-align:justify;
+    background-color:rgb(158, 191, 233)
+}
+/* ...................modern architect........................*/
+h4 {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.modern-article {
+    margin-left: 10rem;
+   
+}
+.modern-p {
+   margin-left: 25rem;
+   color: rgba(19, 58, 233, 0.897);
+   width: 50%;
+   padding: 1rem;
+   text-align:justify;
+   background-color:rgb(224, 228, 240);
+}
+
+
+.modern-image {
+    margin-top: 1rem;
+    border: solid 2px rgb(29, 66, 189);
+    float: left;
+    margin-left: 3rem;
+}
+
+.modern1-image {
+    margin-top: 1rem;
+    border: solid 2px rgb(5, 38, 109);
+    float: left;
+    margin-right: 1rem;  
+}
+
+/* .............................cuisine......................... */
+
+
+.cuisine-p {
+    color: rgb(121, 18, 18);
+    margin:0 auto;
+    margin-left:6rem;
+    padding: 1rem;
+    width: 60%;
+    float: left;
+    display: inline-block;
+    text-align:justify;
+    background-color:rgb(207, 247, 207);
+}
+/*...................................................................*/
+
+
